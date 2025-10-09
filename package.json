@@ -1,0 +1,19 @@
+{
+  "name": "projeto-blog",
+  "version": "1.0.0",
+  "description": "Sistema de Blog Simples com Express.js",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "dev": "nodemon src/app.js"
+  },
+  "keywords": [],
+  "author": "Lucas Trigo Alves da Silva e Otávio Ninin Ferreira",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
